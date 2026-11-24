@@ -1,0 +1,7 @@
+card1.png = Ezio Auditore (Assassin's Creed II)
+card2.png = Bayek of Siwa (Assassin's Creed Origins)
+card3.png = Connor Kenway (Assassin's Creed III)
+card4.png = Kassandra (Assassin's Creed Odyssey)
+card5.png = Edward Kenway (Assassin's Creed IV Black Flag)
+card_back.png = card back (shared back face)
+All images: 512x768 PNG (2:3)

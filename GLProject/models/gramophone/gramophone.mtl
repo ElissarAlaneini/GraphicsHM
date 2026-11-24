@@ -1,0 +1,40 @@
+newmtl wood_top
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd wood_top.jpg
+
+newmtl wood_front
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd wood_front.jpg
+
+newmtl wood_side
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd wood_side.jpg
+
+newmtl brass
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd brass.jpg
+
+newmtl vinyl
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd vinyl.jpg
+
